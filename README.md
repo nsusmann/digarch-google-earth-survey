@@ -1,9 +1,9 @@
 # digarch-google-earth-survey
 Step-by-step instructions for locating ancient sites via an archaeological survey map and recording them in Google Earth. This tutorial includes some guiding interpretative questions for students to explore how they can use these data to implement a viewshed analysis (see https://github.com/nsusmann/digarch-bavisibility). 
 
-GE_Browser.pdf is written for using Google Earth Browser edition. 
+GE_Browser_GitHub.pdf is written for using Google Earth Browser edition. 
 
-GE_Survey_Pro.pdf is written for Google Earth Pro.
+GE_Survey_Pro_GitHub.pdf is written for Google Earth Pro.
 
 Files for these tutorials are in Mycenae_GE.zip. Any datasets not georeferenced from Mason_2007_Fig1 were recorded by me in the field. 
 
